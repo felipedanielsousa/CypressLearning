@@ -94,5 +94,6 @@ describe('Tickets', () => {
             cy.get("@submitButton").should("be.disabled");
             
 
+            
         });
 });
