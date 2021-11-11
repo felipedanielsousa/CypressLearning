@@ -1,0 +1,22 @@
+{
+  "name": "cypresslearnig",
+  "version": "1.0.0",
+  "description": "teste123",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipedanielsousa/CypressLearning.git"
+  },
+  "author": "felipedanielsousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipedanielsousa/CypressLearning/issues"
+  },
+  "homepage": "https://github.com/felipedanielsousa/CypressLearning#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
